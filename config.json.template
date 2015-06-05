@@ -1,0 +1,12 @@
+{
+  "cells": [
+    "https://your.domain.com/munin/localdomain/localhost.localdomain/nginx_request-day.png",
+    "https://your.domain.com/munin/localdomain/localhost.localdomain/processes-day.png",
+    "https://your.domain.com/munin/localdomain/localhost.localdomain/cpuspeed-day.png",
+  ],
+  "auth": {
+    "username": "XXX",
+    "password": "YYY"
+  },
+  "ttl": 30
+}
