@@ -5,7 +5,7 @@ Aggregated stats with local cacheing
 # Nginx configuration
 You have to add Access-Control to your png files (cross domain policy)
 
-`
+```
     location /munin {
       root /var/www;
       location ~* \.(png)$ {
@@ -27,4 +27,4 @@ You have to add Access-Control to your png files (cross domain policy)
         }
       }
     }
-`
+```
